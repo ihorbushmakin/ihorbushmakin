@@ -1,7 +1,7 @@
 ## hi there, i'm Ihor
 
 💻 **Python Fullstack Developer** | Django • DRF • React • PostgreSQL
-🌍 open to opportunities in **Germany / Canada / USA**
+🌍 open to opportunities in **Europe / Canada / USA**
 📬 [Email](mailto:ihorbushmakin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ihorbushmakin/)
 
 ---
