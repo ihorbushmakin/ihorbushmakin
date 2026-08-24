@@ -1,6 +1,6 @@
 ## hi there, i'm Ihor
 
-💻 **Python Fullstack Developer** | Django • DRF • React • PostgreSQL
+💻 **Fullstack Developer**
 🌍 open to opportunities in **Europe / Canada / USA**
 📬 [Email](mailto:ihorbushmakin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ihorbushmakin/)
 
@@ -11,7 +11,7 @@
 - 🗄️ experienced with PostgreSQL, SQLite, migrations, and query optimization  
 - ⚛️ building frontend apps with React (components, hooks, routing)  
 - ☁️ deployed applications on **Render** and Heroku  
-- 🛠 using Git, Docker, and CI/CD (GitHub Actions)  
+- 🛠 using Git, Docker, and CI/CD 
 - 🔎 looking for opportunities as a **backend / fullstack developer**  
 
 ---
@@ -58,18 +58,3 @@ Demo REST API with documentation
 ---
 
 let's keep in touch
-
-<!--
-**ihorbushmakin/ihorbushmakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
